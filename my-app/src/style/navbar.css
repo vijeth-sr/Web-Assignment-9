@@ -1,0 +1,19 @@
+.navbar {
+    transition: background-color 0.5s ease-in-out;
+  }
+  
+  .navbar-brand,
+  .nav-link {
+    color: white !important;
+  }
+  
+  .nav-link:hover {
+    color: lightgray !important;
+  }
+  
+  /* To customize the active link */
+  .navbar-nav .nav-item.active .nav-link {
+    background-color: rgba(255, 255, 255, 0.15);
+    border-radius: 5px;
+  }
+  

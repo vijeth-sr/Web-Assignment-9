@@ -1,0 +1,14 @@
+.my-card {
+    background-color: lightblue;
+    border-radius: 8px;
+    padding: 20px;
+    height: 100%;
+  }
+  
+  .user-card {
+    background-color: lightgreen;
+    border-radius: 8px;
+    padding: 20px;
+    height: 100%;
+  }
+  
